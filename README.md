@@ -1,1 +1,1 @@
-# my-first-game-project
+# My-First-Game-Project
