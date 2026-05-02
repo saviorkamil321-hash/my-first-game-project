@@ -1,2 +1,2 @@
 # My-First-Game-Project
-# Game_name = Paper,Seasor,Rock
+Game_name = Paper Scissor Rock
